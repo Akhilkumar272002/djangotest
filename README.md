@@ -1,6 +1,6 @@
 # djangotest
 
 
-django test 
+django test website
 
-project on django website backend work
+*this is *
