@@ -1,6 +1,10 @@
 # djangotest
 
 
-django test website
+# django test website
 
-*this is *
+
+This is test run website development with basic formal pages.
+formulation between (postqresql(RDBMS) and django) platform
+template org.
+
